@@ -1,0 +1,21 @@
+Muna 	 IdentifiantSE Libellé commercial SE                                                                               	Début effet SE	Fin effet SE
+59050287 BAS_EATRESS5  IRP AUTO Santé - Evin Gges Pyrénéens                                                                	2023020130000101
+59050243 BAS_ERTRESS5  IRP AUTO Santé - Evin Gges Pyrénéens                                                                	2023020130000101
+59044257 BAS_AAA84     IRP AUTO Santé - ACTIONS AUTO. 84 ind.                                                              	2017120130000101
+59042524 BAS_AAERTEC   IRP AUTO Santé - Aertec ind.                                                                        	2016100130000101
+59046804 BAS_AAERTECM  IRP AUTO Santé - Aertec ind.                                                                        	2019110130000101
+59049142 BAS_AKMMOTOR  IRP AUTO Santé - AKM Motors                                                                         	2021110130000101
+59048209 BAS_AAMOLLI   IRP AUTO Santé - Groupe AMOLLINE                                                                    	2021010130000101
+59044600 BAS_AANFA     IRP AUTO Santé - ANFA ind.                                                                          	2018010130000101
+59042808 BAS_AARAMISI  IRP AUTO Santé - Groupe ARAMIS ind.                                                                 	2017010130000101
+59042817 BAS_AARAMISM  IRP AUTO Santé - Groupe ARAMIS ind.                                                                 	2017010130000101
+59044074 BAS_AAURILIS  IRP AUTO Santé - AURILIS GROUP ind.                                                                 	2017090130000101
+59040503 BAS_AAOVISI-I IRP AUTO Santé - AUTOVISION individuel                                                              	2015010130000101
+59040472 BAS_AAOVISI-M IRP AUTO Santé - AUTOVISION individuel                                                              	2015010130000101
+59047861 BAS_ABACONNIE IRP AUTO Santé - Groupe BACONNIER                                                                   	2020120130000101
+59046848 BAS_ABEAUDET  IRP AUTO Santé - Groupe BEAUDET                                                                     	2019110130000101
+59045187 BAS_ABRTRND   IRP AUTO Santé - Groupe BERTRAND                                                                    	2020010130000101
+59041371 BAS_ABLANFREI IRP AUTO Santé - Blanc-Freres ind.                                                                  	2016010130000101
+59041376 BAS_ABLANFREM IRP AUTO Santé - Blanc-Freres ind.                                                                  	2016010130000101
+59045610 BAS_ABODEMER  IRP AUTO Santé - Gpe BODEMER                                                                        	2018100130000101
+59045589 BAS_ABONY     IRP AUTO Santé - Groupe BONY                                                                        	2019110130000101
